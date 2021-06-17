@@ -20,11 +20,11 @@ body{
     list-style: circle ;
 }
 .habilidades-basicas{
-    line
+    line-height: 16px;      
 }
 .habilidades-intermediarias{
-    
+    line-height: 18px;
 }
 .habilidades-avançadas{
-
+    line-height: 16px;
 }
